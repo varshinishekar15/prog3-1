@@ -2,7 +2,7 @@
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 jobs:
   maven:
     runs-on: ubuntu-latest
